@@ -1,0 +1,6 @@
+# Reach cache files
+.reach
+# VsCode files
+.vscode
+# Compile output folder
+build
